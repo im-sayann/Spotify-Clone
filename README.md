@@ -2,20 +2,27 @@
 <br>
 https://spotifysayan.freewebhostmost.com/
 <br>
-# Spotify Clone Webpage
+<br>
+<h1> Spotify Clone Webpage
+<br>
 This webpage is a Spotify clone that is highly responsive, adapting well to different screen sizes
 <br>
-# Author
+<br>
+<h2> Author
 <br>
  Sayan Das
 <br>
-# contact
+<br>
+<h2> contact
 <br>
 For any inquiries or feedback, feel free to contact me at yosayan007@gmail.com.
 <br>
-# Getting Started
+<br>
+<h2> Getting Started
+<br>
 <br>
 To use this project, follow these steps:
+<br>
 <br>
 1. Clone the repo on the system
 <br>
